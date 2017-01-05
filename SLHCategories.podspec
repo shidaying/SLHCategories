@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "SLHCategories"
   s.version      = "0.0.1"
-  s.summary      = "quickly set content for uitableviewcell or uicollectionviewcell"
+  s.summary      = "category, uitableviewcell, uicollectionviewcell"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?

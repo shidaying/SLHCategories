@@ -42,7 +42,6 @@
 - (CGSize)slh_stringWidthWithMaxHeight:(CGFloat)maxHeight andFont:(UIFont*)font;
 
 
-- (NSString *)slh_dateStrFromDateStr: (NSString *)dateStr;
 
 /**
  *  判断是不是以 http:// 开头，如果是返回本身，不是则加上http://
